@@ -36,3 +36,9 @@ yarn-error.log*
 # Misc
 .DS_Store
 *.pem
+
+# Jetbrains
+.idea
+
+# Visual Studio Code
+.vscode
